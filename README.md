@@ -5,7 +5,7 @@ The corpus contains 1000 persuasive student peer reviews about business model fe
 
 1. guideline.pdf: the annotation guidelines used in this study
 
-2. Corpus.zip: the corpous inclusding the txt files and the ann (annotation) files for each student review
+2. Corpus.zip: the corpus inclusding the txt files and the ann (annotation) files for each student review
    
 For annotating the texts, we used the brat annotation tool (version 1.3 "Crunchy Frog"), 
 which can be downloaded from http://brat.nlplab.org 
